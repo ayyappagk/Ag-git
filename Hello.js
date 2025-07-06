@@ -1,3 +1,3 @@
-const name1 = 'ayyappa G';
+const name1 = 'ayyappa Gandikota';
 console.log('hello ' + name1);
  
